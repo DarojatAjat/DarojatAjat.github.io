@@ -2,6 +2,8 @@
 body.dark .header.fixed{
 box-shadow: 0 0 10px #000000;
 }
+body.dark .header,
+body.dark .header .nav,
 body.dark .header .nav__list,
 body.dark .header .nav__menu,
 body.dark .rsvp-section .form,
