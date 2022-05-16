@@ -2,6 +2,8 @@
 body.dark .header.fixed{
 box-shadow: 0 0 10px #000000;
 }
+body.dark .header .nav__list,
+body.dark .header .nav__menu,
 body.dark .rsvp-section .form,
 body.dark .event-section .event-item-inner,
 body.dark .story-section .story-item i,
@@ -10,6 +12,7 @@ body.dark{
  background-color: #222222;
 
 }
+
 body.dark .header.fixed .nav__menu,
 body.dark .rsvp-section .form .input-control,
 body.dark .header.fixed{

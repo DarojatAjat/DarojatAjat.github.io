@@ -469,6 +469,7 @@ img {
     display: none;
   }
   .nav__name {
+    
     font-size: var(--normal-font-size);
 
     /* display: block; */ /* Minimalist design, visible labels */
