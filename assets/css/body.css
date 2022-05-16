@@ -1,0 +1,53 @@
+
+body.dark .header.fixed{
+box-shadow: 0 0 10px #000000;
+}
+body.dark .rsvp-section .form,
+body.dark .event-section .event-item-inner,
+body.dark .story-section .story-item i,
+body.dark .couple-section .couple i.bxs-heart,
+body.dark{
+ background-color: #222222;
+
+}
+body.dark .header.fixed .nav__menu,
+body.dark .rsvp-section .form .input-control,
+body.dark .header.fixed{
+background-color: #222222;
+}
+body.dark p.copyright-text,
+body.dark .rsvp-section .form .input-control,
+body.dark .event-section .event-item-inner h3,
+body.dark .header.fixed .nav{
+border-color: #444444;
+}
+body.dark p.copyright-text,
+body.dark .event-section .event-item-inner p,
+body.dark .story-section .story-text span.date,
+body.dark .story-section .story-text p,
+body.dark .story-section .couple p{
+color: #bbbbbb;
+}
+body.dark .footer-section .footer-content p,
+body.dark .rsvp-section .form .input-control,
+
+body.dark .header .nav__list i,
+body.dark .event-section .event-item-inner h3,
+body.dark .footer-section .footer-content .couple-name h2,
+body.dark .section-title h2{
+    color: #ffffff;
+}
+body.dark .story-section .story-content:before,
+body.dark .couple-section .couple:nth-child(2):before{
+    background-color: #444444;
+}
+body.dark .couple-section .couple p{
+    color: #bbbbbb;
+}
+body.dark .setting h4{
+    color:#ffffff ;
+    border-color: #444444;
+}
+body.dark .setting p{
+    color:#ffffff ;
+}

@@ -1,0 +1,35 @@
+.preloader .loader i,
+.bxs-music,
+.style-switcher .s-icon i,
+.btn-1:hover,
+.nav__name,
+.header.fixed .nav__name,
+.nav__logo a,
+.story-section .story-item i,
+.story-section .story-text h3,
+.couple-section .couple .sosial-links a i,
+.couple-section .couple i.bxs-heart,
+.couple-section .couple h3
+{
+	color: #3e99f5;
+}
+.preloader .loader:before{
+	border-right: 3px solid #3e99f5;
+}
+.bxs-music,
+.footer-section .footer-content .couple-name,
+.btn-1,
+.couple-section .couple .sosial-links a i,
+.couple-section .couple img{
+	border-color: #3e99f5;
+}
+
+.bxs-music.pause:after,
+.setting .s-toggle-btn,
+.rsvp-section,
+.event-section,
+.copyright-text,
+.btn-1,
+.couple-section .couple .sosial-links a:hover i{
+ background-color: #3e99f5;
+}
